@@ -1,1 +1,1 @@
-# Industrial_copper_odeling
+# Industrial_copper_modeling
